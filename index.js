@@ -304,7 +304,7 @@ const render = Render.create({
 		width: Game.width,
 		height: Game.height,
 		wireframes: false,
-		background: '#ffdcae'
+		background: 'radial-gradient(circle, rgba(234,72,252,0.5) 0%, rgba(85,43,255,0.5) 100%)'
 	}
 });
 
